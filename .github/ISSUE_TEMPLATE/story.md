@@ -9,5 +9,3 @@ Describe the story objective and motivation.
 - [ ]
 
 ### Notes
-
-### PRs
